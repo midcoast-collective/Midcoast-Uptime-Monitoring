@@ -3,7 +3,7 @@
 * Plugin Name: Midcoast Uptime Monitoring
 * Plugin URI: https://midcoast.io/
 * Description: This plugin writes a custom meta tag in the site header for use in UptimeMonitor.com
-* Version: 1.0
+* Version: 1.0.1
 * Author: Midcoast Collective
 * Author URI: https://midcoast.io/
 **/
